@@ -1,0 +1,21 @@
+body{
+    background-color:yellow;
+}
+#empno{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+
+
+    
+}
+
+.data{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 400px;
+    margin: 20px;
+    padding-left: 10px;
+    background-color: wheat;
+    flex-wrap: wrap;
+}
